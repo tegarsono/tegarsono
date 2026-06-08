@@ -102,16 +102,16 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegarsono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EF7&icon_color=7B9EF7&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EF7&text_color=c9d1d9&langs_count=8" height="165"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegarsono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsono&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tegarsono&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B9EF7&ring=7B9EF7&fire=FF6B6B&currStreakLabel=7B9EF7" width="60%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tegarsono&theme=tokyonight"/>
+</p>
 
 ---
 
