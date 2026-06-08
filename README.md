@@ -105,12 +105,12 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tegarsono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsono&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tegarsono&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsono&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tegarsono&theme=tokyonight"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=tegarsono&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
