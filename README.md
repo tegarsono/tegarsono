@@ -4,9 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tegar%20Dwi%20Leksono&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7B9EF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔐+Forensic+Science+Graduate+Student+%40+Telkom+University;💻+Full-Stack+Dev+%7C+UI%2FUX+%7C+AI+Engineer;🛡️+Data+Protection+%26+Cybersecurity+Researcher" alt="Typing SVG" />
-</a>
+  <!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=7B9EF7&center=true&vCenter=true&width=850&lines=Master+of+Forensic+Science+Student;Cybersecurity+and+Digital+Forensics+Researcher;Full-Stack+Developer+and+AI+Engineer;Human-Centric+Security+Framework+Researcher" />
+</p>
 
 <br/>
 
@@ -23,14 +24,12 @@
 ## 🧠 About Me
 
 ```python
-class TégarDwiLeksono:
+class TegarDwiLeksono:
     def __init__(self):
         self.name         = "Tegar Dwi Leksono"
-        self.student_id   = "203022520006"
         self.degree       = "Master of Forensic Science (S2)"
         self.university   = "Universitas Telkom — Fakultas Informatika"
         self.focus        = ["Data Protection", "Cybersecurity", "Digital Forensics"]
-        self.supervisor   = "Dr. Farisya Setiadi, S.T., M.T.I."
         self.undergrad    = "Software Engineering — GPA 3.9 / 4.0"
         self.location     = "Bandung, West Java 🇮🇩"
 
@@ -46,7 +45,7 @@ class TégarDwiLeksono:
     def say_hi(self):
         print("Let's build secure, human-centered digital systems. 🔐")
 
-me = TégarDwiLeksono()
+me = TegarDwiLeksono()
 me.say_hi()
 ```
 
@@ -192,14 +191,13 @@ Aplikasi manajemen inventaris gudang berbasis web untuk pencatatan stok barang m
 ## 🎓 Education
 
 ```
-📍 Master of Forensic Science (S2) — 2023–Present
+📍 Master of Forensic Science (S2) — 2026–Present
    Universitas Telkom, Fakultas Informatika
    Concentration: Data Protection & Cybersecurity | Digital Forensics
-   Thesis Supervisor: Dr. Farisya Setiadi, S.T., M.T.I.
 
-📍 Bachelor of Software Engineering (S1) — 2019–2023
+📍 Bachelor of Software Engineering (S1) — 2021–2025
    Universitas Telkom
-   GPA: 3.9 / 4.0 (Cum Laude)
+   GPA: 3.9 / 4.0
 ```
 
 ---
@@ -208,9 +206,9 @@ Aplikasi manajemen inventaris gudang berbasis web untuk pencatatan stok barang m
 
 | 🏅 Certification | 🏢 Issuer | 📅 Year |
 |-----------------|----------|--------|
-| Junior Web Developer | BNSP (National Professional Certification) | 2023 |
+| Junior Web Developer | BNSP (National Professional Certification) | 2024 |
 | Artificial Intelligence | Orbit Future Academy | 2023 |
-| English Language Proficiency | Telkom University | 2022 |
+| English Language Proficiency | Telkom University | 2024 |
 
 ---
 
