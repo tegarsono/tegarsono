@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-dwi-leksono)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegardwileksono@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tegardwileksono)
-[![Profile Views](https://komarev.com/ghpvc/?username=tegardwileksono&style=for-the-badge&color=302b63)](https://github.com/tegardwileksono)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-dwi-leksono)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegardwileksono14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tegarsono)
+[![Profile Views](https://komarev.com/ghpvc/?username=tegarsono&style=for-the-badge&color=302b63)](https://github.com/tegarsono)
 
 </div>
 
@@ -106,12 +106,12 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tegardwileksono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EF7&icon_color=7B9EF7&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegardwileksono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EF7&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tegarsono&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EF7&icon_color=7B9EF7&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarsono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B9EF7&text_color=c9d1d9&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tegardwileksono&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B9EF7&ring=7B9EF7&fire=FF6B6B&currStreakLabel=7B9EF7" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=tegarsono&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B9EF7&ring=7B9EF7&fire=FF6B6B&currStreakLabel=7B9EF7" width="60%"/>
 </div>
 
 ---
@@ -173,6 +173,22 @@ Operational monitoring dashboard built during internship at PT Kimia Farma Apote
 
 ---
 
+### 📦 [Sistem Inventory Gudang]
+> **Full-Stack Developer** · Personal / Academic Project
+
+Aplikasi manajemen inventaris gudang berbasis web untuk pencatatan stok barang masuk/keluar, pelaporan real-time, dan manajemen supplier. Dilengkapi fitur notifikasi stok minimum, export laporan ke PDF/Excel, dan dashboard ringkasan operasional gudang.
+
+**Tech:** `Laravel` `MySQL` `Bootstrap` `jQuery` `Chart.js`
+
+**Fitur Utama:**
+- 📥 Manajemen barang masuk & keluar dengan histori transaksi
+- 📊 Dashboard statistik stok real-time
+- 🔔 Notifikasi otomatis stok minimum
+- 📄 Export laporan PDF & Excel
+- 👥 Multi-user dengan manajemen hak akses
+
+---
+
 ## 🎓 Education
 
 ```
@@ -202,8 +218,8 @@ Operational monitoring dashboard built during internship at PT Kimia Farma Apote
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-dwi-leksono)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegardwileksono@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tegar-dwi-leksono)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tegardwileksono14@gmail.com)
 
 > *"Security is not a product, but a process — and people are always at the center of it."*
 
